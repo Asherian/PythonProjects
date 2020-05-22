@@ -10,7 +10,8 @@ class Book:
 
 class Movie(Book):
     movie=''
-    genre=''    minutes=0
+    genre=''
+    minutes=0
 
 class Audio(Book):
     minutes=0
